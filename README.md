@@ -1,3 +1,2 @@
 # Project-DevOps
-Hackathon DevOps project
-In GitHub platform
+Hackathon DevOps project in GitHub platform
